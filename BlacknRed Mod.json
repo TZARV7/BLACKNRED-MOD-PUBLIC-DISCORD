@@ -1,11 +1,11 @@
 {
-  "name": "Black with Red Accents",
-  "version": "1.0",
+  "name": "BlacknRed",
+  "version": "2.0",
   "description": "A Black theme with red accents ",
   "authors": [
     {
-      "name": "𝕋𝕫𝕒𝕣#4797",
-      "id": "389634146013675520"
+      "name": "RyanFol#2222",
+      "id": "12345678910111213"
     }
   ],
   "spec": "2",
@@ -219,4 +219,12 @@
     "BLUE_660": "#D53F3F",
     "BLUE_700": "#D53F3F"
   },
-
+   "CHAT_GREY": "#101014",
+    "background": {
+    "url": "https://wallpaperaccess.com/full/3227780.jpg",
+    "blur": 1,
+    "alpha": 0.6
+ 
+  },
+  "color": "#D2042D"
+}
